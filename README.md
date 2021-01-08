@@ -11,3 +11,7 @@ Run `npm start` for a dev server
 
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/5ef3cb5c7cb442c2b2e7)
+
+OR
+
+https://www.getpostman.com/collections/5ef3cb5c7cb442c2b2e7
